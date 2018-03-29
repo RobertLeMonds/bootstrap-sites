@@ -1,0 +1,14 @@
+.image {
+	width: 100%;
+	height: 250px;
+	background-size: cover;
+	background-position: center;
+}
+
+#bug {
+	height: 233px;
+}
+
+#horseshoe {
+	height: 233px;
+}
