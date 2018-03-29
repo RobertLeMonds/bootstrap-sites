@@ -1,8 +1,8 @@
 # Bootstrap-Websites
 
-## Websites will be viewable on one webpage linking all other smaller exercises[click here](https://robertlemonds.github.io/bootstrap-sites/)
+## Websites will be viewable on one webpage linking all other smaller exercises [click here](https://robertlemonds.github.io/bootstrap-sites/)
 
-
+# [HomePage](https://robertlemonds.github.io/bootstrap-sites/)
 
 1. [Basics](https://robertlemonds.github.io/bootstrap-sites/basics.html)
 
